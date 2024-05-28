@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Moon DEX -- First Order book Decentralized Exchange ON AO Network
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
